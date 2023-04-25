@@ -28,4 +28,4 @@ To build the app, create variables in the gradle.properties file API_KEY and BAS
 ### Screenshots:
 | Feed | Article WebView | Saved Articles | Demo |
 |---|---|---|---|
-| ![](./screenshots/1.png) | ![](./screenshots/2.png) | ![](./screenshots/3.png) | ![](./screenshots/demo.mp4)
+| ![](./screenshots/1.png) | ![](./screenshots/2.png) | ![](./screenshots/3.png) | ![](./screenshots/demo.gif)
