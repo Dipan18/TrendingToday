@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/newsArticlesFragment"
+        android:icon="@drawable/ic_trending"
+        android:title="Trending" />
+
+    <item
+        android:id="@+id/savedNewsArticlesFragment"
+        android:icon="@drawable/ic_favorite"
+        android:title="Saved" />
+</menu>
